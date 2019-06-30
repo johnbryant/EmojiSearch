@@ -1,9 +1,9 @@
 import React from "react";
 
-class SearchInput extends React.Component {
-  render() {
-    return <h1>This is SearchInput</h1>;
-  }
-}
+const SearchInput = ({ onChange }) => (
+  <div>
+    <input type="text" onChange={onChange} />
+  </div>
+);
 
 export default SearchInput;

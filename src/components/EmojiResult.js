@@ -1,8 +1,16 @@
 import React from "react";
+import EmojiResultItem from "./EmojiResultItem";
 
 class EmojiResult extends React.Component {
   render() {
-    return <h1>This is EmojiResult</h1>;
+    const emojis = this.props.emojis;
+    return (
+      <div>
+        {emojis.map(emoji => (
+          <EmojiResultItem emoji={emoji} />
+        ))}
+      </div>
+    );
   }
 }
 
