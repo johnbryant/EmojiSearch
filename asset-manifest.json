@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-practice-EmojiSearch/static/css/main.994e6f9c.chunk.css",
+    "main.js": "/react-practice-EmojiSearch/static/js/main.4413f9c4.chunk.js",
+    "main.js.map": "/react-practice-EmojiSearch/static/js/main.4413f9c4.chunk.js.map",
+    "runtime~main.js": "/react-practice-EmojiSearch/static/js/runtime~main.b1ccb6ce.js",
+    "runtime~main.js.map": "/react-practice-EmojiSearch/static/js/runtime~main.b1ccb6ce.js.map",
+    "static/js/2.1f4f8aa8.chunk.js": "/react-practice-EmojiSearch/static/js/2.1f4f8aa8.chunk.js",
+    "static/js/2.1f4f8aa8.chunk.js.map": "/react-practice-EmojiSearch/static/js/2.1f4f8aa8.chunk.js.map",
+    "index.html": "/react-practice-EmojiSearch/index.html",
+    "precache-manifest.556b002522771d75f03afb37907653d0.js": "/react-practice-EmojiSearch/precache-manifest.556b002522771d75f03afb37907653d0.js",
+    "service-worker.js": "/react-practice-EmojiSearch/service-worker.js",
+    "static/css/main.994e6f9c.chunk.css.map": "/react-practice-EmojiSearch/static/css/main.994e6f9c.chunk.css.map"
+  }
+}
