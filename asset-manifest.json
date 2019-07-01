@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-practice-EmojiSearch/static/css/main.994e6f9c.chunk.css",
-    "main.js": "/react-practice-EmojiSearch/static/js/main.4413f9c4.chunk.js",
-    "main.js.map": "/react-practice-EmojiSearch/static/js/main.4413f9c4.chunk.js.map",
-    "runtime~main.js": "/react-practice-EmojiSearch/static/js/runtime~main.b1ccb6ce.js",
-    "runtime~main.js.map": "/react-practice-EmojiSearch/static/js/runtime~main.b1ccb6ce.js.map",
-    "static/js/2.1f4f8aa8.chunk.js": "/react-practice-EmojiSearch/static/js/2.1f4f8aa8.chunk.js",
-    "static/js/2.1f4f8aa8.chunk.js.map": "/react-practice-EmojiSearch/static/js/2.1f4f8aa8.chunk.js.map",
-    "index.html": "/react-practice-EmojiSearch/index.html",
-    "precache-manifest.556b002522771d75f03afb37907653d0.js": "/react-practice-EmojiSearch/precache-manifest.556b002522771d75f03afb37907653d0.js",
-    "service-worker.js": "/react-practice-EmojiSearch/service-worker.js",
-    "static/css/main.994e6f9c.chunk.css.map": "/react-practice-EmojiSearch/static/css/main.994e6f9c.chunk.css.map"
+    "main.css": "/EmojiSearch/static/css/main.994e6f9c.chunk.css",
+    "main.js": "/EmojiSearch/static/js/main.4413f9c4.chunk.js",
+    "main.js.map": "/EmojiSearch/static/js/main.4413f9c4.chunk.js.map",
+    "runtime~main.js": "/EmojiSearch/static/js/runtime~main.c28279c4.js",
+    "runtime~main.js.map": "/EmojiSearch/static/js/runtime~main.c28279c4.js.map",
+    "static/js/2.1f4f8aa8.chunk.js": "/EmojiSearch/static/js/2.1f4f8aa8.chunk.js",
+    "static/js/2.1f4f8aa8.chunk.js.map": "/EmojiSearch/static/js/2.1f4f8aa8.chunk.js.map",
+    "index.html": "/EmojiSearch/index.html",
+    "precache-manifest.373931b9351e6f8dce66a6413d580c9c.js": "/EmojiSearch/precache-manifest.373931b9351e6f8dce66a6413d580c9c.js",
+    "service-worker.js": "/EmojiSearch/service-worker.js",
+    "static/css/main.994e6f9c.chunk.css.map": "/EmojiSearch/static/css/main.994e6f9c.chunk.css.map"
   }
 }
