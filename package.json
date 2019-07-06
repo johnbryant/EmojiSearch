@@ -2,11 +2,12 @@
   "name": "emoji-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://johnbryant.github.io/react-practice-EmojiSearch/",
+  "homepage": "https://johnbryant.github.io/EmojiSearch/",
   "dependencies": {
     "clipboard": "^2.0.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-paginate": "^6.3.0",
     "react-scripts": "3.0.1"
   },
   "scripts": {
